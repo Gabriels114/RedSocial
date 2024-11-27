@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_RedSocial_FILE /home/gabriels/CLionProjects/RedSocial/RedSocial/build/Desktop_Qt_6_8_0-Debug/RedSocial)
+set(__QT_DEPLOY_TARGET_RedSocial_TYPE EXECUTABLE)

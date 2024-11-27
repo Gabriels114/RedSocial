@@ -1,3 +1,5 @@
 /home/gabriels/CLionProjects/RedSocial/cmake-build-debug/CMakeFiles/RedSocial.dir
 /home/gabriels/CLionProjects/RedSocial/cmake-build-debug/CMakeFiles/edit_cache.dir
 /home/gabriels/CLionProjects/RedSocial/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/gabriels/CLionProjects/RedSocial/cmake-build-debug/CMakeFiles/RedSocial_autogen_timestamp_deps.dir
+/home/gabriels/CLionProjects/RedSocial/cmake-build-debug/CMakeFiles/RedSocial_autogen.dir
