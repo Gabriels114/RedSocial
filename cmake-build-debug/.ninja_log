@@ -1,0 +1,7 @@
+# ninja log v6
+1	162	1732661128794265518	CMakeFiles/RedSocial.dir/main.cpp.o.ddi	d9dcb056fc7bec95
+162	169	1732661128961253918	CMakeFiles/RedSocial.dir/CXX.dd	ad79e68e4660ae60
+162	169	1732661128961253918	/home/gabriels/CLionProjects/RedSocial/cmake-build-debug/CMakeFiles/RedSocial.dir/CXXModules.json	ad79e68e4660ae60
+162	169	1732661128961253918	CMakeFiles/RedSocial.dir/main.cpp.o.modmap	ad79e68e4660ae60
+169	1632	1732661128962253849	CMakeFiles/RedSocial.dir/main.cpp.o	8b16210f78bdee7d
+1632	1701	1732661130425152473	RedSocial	f1a04c7c83283f84
